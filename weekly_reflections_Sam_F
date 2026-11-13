@@ -20,21 +20,20 @@ This file contains the weekly reflections for my contributions to the group proj
 **My contribution during the week:** My main contribution during this week was to undertake the EDA of my allocated data. 
 
 ### Week 3 (w/c 19th October)
-**Context:** Group project week 3. This week I was chair for the team meeting. We were also suddenly informed that the deadline for our work would be the next week, as a result before the meeting I created a communal document for each member to identify our deliverables, agree upon the minimum viable product and assigned tasks. At a short notice I also offered to write up a summary of our EDA as a submission.
+**Context:** Group project week 3. This week I was chair for the team meeting. We were also suddenly informed that the deadline for our work would be the next week, as a result before the meeting I created a communal document for each member to identify our deliverables, agree upon the minimum viable product and assign tasks. At short notice I also offered to write up a summary of our EDA as a submission.
 **Overview of team meeting:** We started the meeting by reviewing the communal document - this served as a really useful tool to understand the outstanding work and assign tasks to members with deadlines. I also briefly presented my EDA to the team so that they can familiarise themselves with the document and review it for any errors introduced by my summarisation of their work.
-**Next steps:** During the meeting we assigned sub-tasks of our features to produce for the streamlit app and to contribute to the communal script for the group video. My feature was a wellness tracker, providing the user with a simple visual to track their progress against three goals: steps, calories burned and hours slept.
+**Next steps:** During the meeting we assigned sub-tasks of our features to produce for the Streamlit app and to contribute to the communal script for the group video. My feature was a wellness tracker, providing the user with a simple visual to track their progress against three goals: steps, calories burned and hours slept.
 **My contribution during the week:** As chair I also provided an agenda the day before the team meeting to let my colleagues prepare for the meeting.
 
 ### Week 4 (w/c 26th October)
-**Context:** This week the main objective for the team was to develop a prototype of our dashboard for our presentation. Each member was tasked with producing their own visualisation and then integrating it into the streamlit app. 
-**Overview of team meeting:** We spent the team meeting reviewing all of the merge requests on github to allow us to stitch together our various apps into a single streamlit app web page, we then ran the streamlit app to ensure it was working and discuss our individual
-apps.
-**Next steps:** Next step is to finalise and practice our skips for the presentation being filmed next week.
+**Context:** This week the main objective for the team was to develop a prototype of our dashboard for our presentation. Each member was tasked with producing their own visualisation and then integrating it into the Streamlit app. 
+**Overview of team meeting:** We spent the team meeting reviewing all of the merge requests on GitHub to allow us to stitch together our various apps into a single Streamlit app web page, we then ran the Streamlit app to ensure it was working and discussed our individual apps.
+**Next steps:** Next step is to finalise and practice our scripts for the presentation being filmed next week.
 **My contribution during the week:** Created my own app (wellness tracker), helped others struggling to use the communal load_data function. 
 
 ### Week 5 (w/c 2nd November)
 **Context:** Week of presentation filming.
-**Overview of team meeting:** Filmed our presentation, pulled together and submitted the final submisson as a team.
+**Overview of team meeting:** Filmed our presentation, pulled together and submitted the final submission as a team.
 **Next steps:** Finalise my individual contributions log and prepare to review other presentations for the next week.
 **My contribution during the week:** Produced a script introducing the team, our app and the EDA. 
 
@@ -42,15 +41,15 @@ apps.
 **Context:** Reviewing other team presentations.
 **Overview of team meeting:** Spent the hour preparing for the next group task - group presentation.
 **Next steps:** To continue with the group presentation task. 
-**My contribution during the week:** Reviewed other presentations and found data (UK GOV Fuel API) for the group presentation task. 
+**My contribution during the week:** Reviewed other presentations and find data (UK GOV Fuel API) for the group presentation task. 
 
 ## Self evaluation
 ### Overview
-As a team we were able to deliver the minimum viable product (a working dashboard, with an EDA summary and a presentation) within the timeframe. I believe we worked well as a team making good use of our meetings and group chat on Teams to keep other updated on our progress and agree on next steps - an example of this is when we were suddenly informed of the delivery date - we were able to meet the next day to agree on the minimum requirements and the steps needed to get us there. As an induvidual I believe I played a key role in supporting the team with this work.
+As a team we were able to deliver the minimum viable product (a working dashboard, with an EDA summary and a presentation) within the timeframe. I believe we worked well as a team making good use of our meetings and group chat on Teams to keep others updated on our progress and agree on next steps - an example of this is when we were suddenly informed of the delivery date - we were able to meet the next day to agree on the minimum requirements and the steps needed to get us there. As an individual I believe I played a key role in supporting the team with this work.
 
 ### My contributions
 At the start of the project we didn't set specific roles (e.g., data engineer, project manager or data analyst), this was to allow each member to get experience in each field. As a result I was able to contribute to various aspects of the project:
-* EDA - I was responsible for merging everyones EDA into a single coherent document.
+* EDA - I was responsible for merging everyone's EDA into a single coherent document.
 * Meeting chair - I chaired a meeting - setting the agenda, managing times and providing a summary of tasks at the end. 
 * Subset of software requirements - I wrote several requirements for the product that it had to meet.
 * Wellness tracker app - I wrote the code and developed the visuals for the wellness tracker app as part of the dashboard.
@@ -58,17 +57,33 @@ At the start of the project we didn't set specific roles (e.g., data engineer, p
 * General support - I ensured I was always available to support other colleagues with their work if something popped up and meant they were too busy to contribute that week. I also helped my colleagues debug their errors.
 
 ### Strengths
-* **Collaboration** I think the team excelled at collaboration (including myself). Our frequent meetings, use of Microsoft Teams and GitHub as well as our setting of clear objectives for each team member we were able to collaborate effectively. 
-* **Adaptability** I think I was able to deomonstrate my adaptability when I offered to undertake the summary of the EDA at a short notice, balacing that prioritiy against my other tasks and work.
+* **Collaboration** I think the team excelled at collaboration (including myself). Our frequent meetings, use of Microsoft Teams and GitHub as well as our setting of clear objectives for each team member meant we were able to collaborate effectively. 
+* **Adaptability** I think I was able to demonstrate my adaptability when I offered to undertake the summary of the EDA at short notice, balancing that priority against my other tasks and work.
 
 ### Improvements
 * **Use of GitHub** I think this project highlighted a gap in my skillset when it comes to the use of GitHub, having to rely upon others to demonstrate how to use several features such as merge requests. This is an area I need to work on before the main project next year. 
-* **Team roles** As previously mentioned, in this project we didn't assign specific roles to each member. I think given the nature of this work (i.e., it was a demo) that choice was fine. However, for the main group projct I believe setting roles will be key towards ensuring an efficient team.
+* **Team roles** As previously mentioned, in this project we didn't assign specific roles to each member. I think given the nature of this work (i.e., it was a demo) that choice was fine. However, for the main group project I believe setting roles will be key towards ensuring an efficient team.
 
 ## Review of other team presentations
-### Team 
-**Summary of dashboard:**
-**What went well:**
-**Even better if:**
+### Team 3
+**What went well:** Correlation analysis (active mins and calories, activity and weight and activity and sleep), professional layout (Fitbit logo) and good insights into the data.
+**Even better if:** Each member introduced themselves and their role and if they made it clear the data they were showing is for one person or the group (front page).
+
+### Team JAYLS
+**What went well:** Good use of project management tools, introduction of each member and their section and good use of slides and demo to help with the presentation flow.
+**Even better if:** Presentation didn't go over the allotted time (6 mins). They went beyond visualising the data, whilst not a requirement I imagine many users would want some insights being generated from their data rather than just seeing the raw data.
+
+### Team 7
+**What went well:** Advanced analysis (K-means) and a good use of visualisations.
+**Even better if:** More than one member presented and if they provided a live demonstration of the dashboard.
+
+### Team 9 
+**What went well:** Good setting out of the user base. Common theme for the dashboard throughout - user knows what to expect. Varied use of visualisations to help with data insights.
+**Even better if:** Presentation didn't go over the allotted time (6 mins). Each member introduced themselves and their role.
+
+### Team 8
+**What went well:** Clear use case set out at the start and some very nice looking visualisations and analysis.
+**Even better if:** Some slides were used to describe some of the auxiliary aspects of the project such as GitHub usage and ways of working.
 
 ## AI disclaimer
+Microsoft's Copilot was used in the creation of this log. Copilot was primarily used for spell and grammar checking as well as to help structure the document.
