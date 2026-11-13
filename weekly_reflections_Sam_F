@@ -1,34 +1,74 @@
 # Weekly reflections: Samuel Furneaux
 
-Last updated: 26/10/2026.
+Last updated: 13/11/2026.
 
 ## Introduction
-This file contains the weekly reflections for my contributions to the group project.
+This file contains the weekly reflections for my contributions to the group project, a self evaluation of my performance and my thoughts on the presentations from other teams for this project.
 
 ## Weekly Logs
 
 ### Week 1 (w/c 5th October)
 **Context:** Group project week one. During this week we received the first group task (creation of a dashboard using Fitbit data) and met as a group for the first time.
-**Overview of team meeting:** During the meeting we reviewed the task, identified our deliverables, initiated the GitHub repository for the team and started to discuss roles. We agreed that at the next meeting we should provide an overview of our EDA and undertake a Crazy 8's session for dashboard ideation.
+**Overview of team meeting:** During the meeting we reviewed the task, identified our deliverables, initiated the GitHub repository for the team and started to discuss roles. We agreed that at the next meeting we should provide an overview of our EDA and undertake a Crazy 8s session for dashboard ideation.
 **Next steps:** During the meeting we agreed that our next step would be to undertake the exploratory data analysis (EDA) of the 18 files provided to us. To ensure efficiency and develop a familiarity with the data we agreed to divide up the files between us.
 **My contribution during the week:** Before the meeting I proposed that we have a rotating chair and note taker. Firstly, a chair is important for the smooth running of a team meeting and a rotating chair gives each member the opportunity to have that experience. The team agreed to the proposition of a rotating chair and we produced a rota, however the note taker was replaced with each meeting being transcribed and summarised by AI.
 
 ### Week 2 (w/c 12th October)
-**Context:** Group project week two. Our main focus for this week was to undertake our EDA's of the data allocated to us and prepare for a short presentation of our findings. During this week we also had a lecture on how to articulate good software requirements.
-**Overview of team meeting:** The first half of the meeting was dedicated to each member providing a short presentation of their EDA. The second half was dedicated to a Crazy 8's ideation session, producing ideas for features of our dashboard. After which each member discussed an idea or two which they wished to share with the group. We ultimately agreed upon six ideas worth exploring further.
-**Next steps:** Each colleague was required draft a minimum of five requirements against the six features identified.
+**Context:** Group project week two. Our main focus for this week was to undertake our EDAs of the data allocated to us and prepare for a short presentation of our findings. During this week we also had a lecture on how to articulate good software requirements.
+**Overview of team meeting:** The first half of the meeting was dedicated to each member providing a short presentation of their EDA. The second half was dedicated to a Crazy 8s ideation session, producing ideas for features of our dashboard. After which each member discussed an idea or two which they wished to share with the group. We ultimately agreed upon six ideas worth exploring further.
+**Next steps:** Each colleague was required to draft a minimum of five requirements against the six features identified.
 **My contribution during the week:** My main contribution during this week was to undertake the EDA of my allocated data. 
 
 ### Week 3 (w/c 19th October)
-**Context:** Group project week 3. This week I was going to be chair for the team meeting. We were also suddenly informed that the deadline for our work would be the next week, as a result before the meeting I created a communal document for each member to identify our deliverables, agree upon discuss the minimum viable product and assign tasks. At a short noticed I also offered to write up a summary of our EDA as a submission.
-**Overview of team meeting:** We started the meeting by reviewing the communal document - this served as a really useful tool to understand the outstanding work and assign tasks to members with deadlines. I also breifly presented my EDA to the team so that they can familiarise themselves with the document and review it for any errors introduced by my summarisation of their work.
-**Next steps:** During the meeting we assigned sub-tasks of our feasutres to produce for the streamlit app and to contribute to the communal script for the group video.
-**My contribution during the week:** x As chair I also provided an agenda the day before the team meeting to let my colleagues prepare for the meeting.
+**Context:** Group project week 3. This week I was chair for the team meeting. We were also suddenly informed that the deadline for our work would be the next week, as a result before the meeting I created a communal document for each member to identify our deliverables, agree upon the minimum viable product and assigned tasks. At a short notice I also offered to write up a summary of our EDA as a submission.
+**Overview of team meeting:** We started the meeting by reviewing the communal document - this served as a really useful tool to understand the outstanding work and assign tasks to members with deadlines. I also briefly presented my EDA to the team so that they can familiarise themselves with the document and review it for any errors introduced by my summarisation of their work.
+**Next steps:** During the meeting we assigned sub-tasks of our features to produce for the streamlit app and to contribute to the communal script for the group video. My feature was a wellness tracker, providing the user with a simple visual to track their progress against three goals: steps, calories burned and hours slept.
+**My contribution during the week:** As chair I also provided an agenda the day before the team meeting to let my colleagues prepare for the meeting.
 
 ### Week 4 (w/c 26th October)
-**Context:**
-**Overview of team meeting:**
-**Next steps:**
-**My contribution during the week:**
+**Context:** This week the main objective for the team was to develop a prototype of our dashboard for our presentation. Each member was tasked with producing their own visualisation and then integrating it into the streamlit app. 
+**Overview of team meeting:** We spent the team meeting reviewing all of the merge requests on github to allow us to stitch together our various apps into a single streamlit app web page, we then ran the streamlit app to ensure it was working and discuss our individual
+apps.
+**Next steps:** Next step is to finalise and practice our skips for the presentation being filmed next week.
+**My contribution during the week:** Created my own app (wellness tracker), helped others struggling to use the communal load_data function. 
+
+### Week 5 (w/c 2nd November)
+**Context:** Week of presentation filming.
+**Overview of team meeting:** Filmed our presentation, pulled together and submitted the final submisson as a team.
+**Next steps:** Finalise my individual contributions log and prepare to review other presentations for the next week.
+**My contribution during the week:** Produced a script introducing the team, our app and the EDA. 
+
+### Week 6 (w/c 9th November)
+**Context:** Reviewing other team presentations.
+**Overview of team meeting:** Spent the hour preparing for the next group task - group presentation.
+**Next steps:** To continue with the group presentation task. 
+**My contribution during the week:** Reviewed other presentations and found data (UK GOV Fuel API) for the group presentation task. 
+
+## Self evaluation
+### Overview
+As a team we were able to deliver the minimum viable product (a working dashboard, with an EDA summary and a presentation) within the timeframe. I believe we worked well as a team making good use of our meetings and group chat on Teams to keep other updated on our progress and agree on next steps - an example of this is when we were suddenly informed of the delivery date - we were able to meet the next day to agree on the minimum requirements and the steps needed to get us there. As an induvidual I believe I played a key role in supporting the team with this work.
+
+### My contributions
+At the start of the project we didn't set specific roles (e.g., data engineer, project manager or data analyst), this was to allow each member to get experience in each field. As a result I was able to contribute to various aspects of the project:
+* EDA - I was responsible for merging everyones EDA into a single coherent document.
+* Meeting chair - I chaired a meeting - setting the agenda, managing times and providing a summary of tasks at the end. 
+* Subset of software requirements - I wrote several requirements for the product that it had to meet.
+* Wellness tracker app - I wrote the code and developed the visuals for the wellness tracker app as part of the dashboard.
+* Presentation - I provided the introduction to the project, the team and a summary of the EDA undertaken. 
+* General support - I ensured I was always available to support other colleagues with their work if something popped up and meant they were too busy to contribute that week. I also helped my colleagues debug their errors.
+
+### Strengths
+* **Collaboration** I think the team excelled at collaboration (including myself). Our frequent meetings, use of Microsoft Teams and GitHub as well as our setting of clear objectives for each team member we were able to collaborate effectively. 
+* **Adaptability** I think I was able to deomonstrate my adaptability when I offered to undertake the summary of the EDA at a short notice, balacing that prioritiy against my other tasks and work.
+
+### Improvements
+* **Use of GitHub** I think this project highlighted a gap in my skillset when it comes to the use of GitHub, having to rely upon others to demonstrate how to use several features such as merge requests. This is an area I need to work on before the main project next year. 
+* **Team roles** As previously mentioned, in this project we didn't assign specific roles to each member. I think given the nature of this work (i.e., it was a demo) that choice was fine. However, for the main group projct I believe setting roles will be key towards ensuring an efficient team.
+
+## Review of other team presentations
+### Team 
+**Summary of dashboard:**
+**What went well:**
+**Even better if:**
 
 ## AI disclaimer
